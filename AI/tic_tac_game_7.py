@@ -1,3 +1,7 @@
+#Name: Jaydeep zala
+#Eno : 92600584080
+#7. Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).
+
 #two player game - Tic-Tac-Toe
 #using Heuristic Function
 
