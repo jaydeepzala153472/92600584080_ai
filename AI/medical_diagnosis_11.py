@@ -1,3 +1,7 @@
+#Name: Jaydeep zala
+#Eno : 92600584080
+# Expert System For Medical Diagnosis
+
 print('=====Expert System=====')
 print('Answer the following questions with yes or no.')
 
