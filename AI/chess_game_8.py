@@ -1,3 +1,7 @@
+#Name: Jaydeep zala
+#Eno : 92600584080
+#8. Write a program to solve N-Queens problem
+
 # No Two Queens can be in the same row.
 # No Two Queens can be in the same column.
 # No Two Queens can be on the same diagonal.
