@@ -1,3 +1,7 @@
+#Name: Jaydeep zala
+#Eno : 92600584080
+#10 Rule Based System For CAREER GUIDANCE
+
 print("===================================")
 print("   CAREER GUIDANCE SYSTEM   ")
 print("===================================")
