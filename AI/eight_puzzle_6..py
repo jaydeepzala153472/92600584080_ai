@@ -1,3 +1,7 @@
+#Name: Jaydeep zala
+#Eno : 92600584080
+#6. Write a program to implement Single Player Game (Using Heuristic Function)
+
 goal = (1, 2, 3,
         4, 5, 6,
         7, 8, 0)
