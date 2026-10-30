@@ -1,4 +1,8 @@
-CAP_A = 4
+
+#Name: Jaydeep zala
+#Eno : 92600584080
+#4. Implement Depth First Search (for Water Jug problem).CAP_A = 4
+
 CAP_B = 3
 GOAL = 2
 
